@@ -476,6 +476,11 @@ color: var(--h3-text-color);
   color: white;
 }
 
+.f-description a {
+  /* text-decoration: none; */
+  color: var(--white-text);
+}
+
 /* responsive */
 
 @media (max-width: 1200px){
